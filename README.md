@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/logo.png" alt="Rupeer Logo" width="180" height="180"/>
+  <img src="./Assets/rupeer-logo.png" alt="Rupeer Logo" width="180" height="180"/>
   <br>
   Rupeer
 </h1>
@@ -46,13 +46,13 @@ Download the latest APK from the **Releases** section.
 
 # 📸 Screenshots
 
-| Dashboard | Analytics |
-|------------|-----------|
-| <img src="assets/dashboard.png" width="280"> | <img src="assets/analytics.png" width="280"> |
+| Dashboard                                       | Analytics                                       |
+| ----------------------------------------------- | ----------------------------------------------- |
+| <img src="./Assets/dashboard.jpeg" width="280"> | <img src="./Assets/analytics.jpeg" width="280"> |
 
-| Insights | Transactions |
-|-----------|--------------|
-| <img src="assets/insights.png" width="280"> | <img src="assets/transactions.png" width="280"> |
+| Insights                                       | Transactions                                       |
+| ---------------------------------------------- | -------------------------------------------------- |
+| <img src="./Assets/Insights.jpeg" width="280"> | <img src="./Assets/Transactions.jpeg" width="280"> |
 
 ---
 
