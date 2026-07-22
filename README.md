@@ -15,7 +15,7 @@
 <div align="center">
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v0.1.0.beta-blue?style=for-the-badge)
 ![APK](https://img.shields.io/badge/Distribution-APK-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
